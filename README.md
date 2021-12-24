@@ -6,3 +6,4 @@ jdf:  <br>
 https://github.com/SCR-IR/Jalali-Date-for-All-Programming-Languages<br>
 Bot setup guide:<br>
 The center.php file is edited with a robot token.<br>
+And set the bot.php file.<br>
